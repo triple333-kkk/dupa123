@@ -9,7 +9,7 @@ import pandas as pd
 import openpyxl
 
 # ========= KONFIG =========
-DEFAULT_INPUT = "pracujacy_przeds.xlsx"
+DEFAULT_INPUT = "stopa bezrobocia.xlsx"
 SHEET_OUT = "SUMY_CHRONO"
 OUTPUT_SUFFIX = "_sumy_chrono"
 OUTPUT_PERIOD_FORMAT = "MM.YYYY"   # "MM.YYYY" albo "YYYY-MM"
